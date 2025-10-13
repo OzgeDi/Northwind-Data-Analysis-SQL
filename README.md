@@ -8,7 +8,7 @@ The Northwind database is a classic sample dataset that represents a trading com
 These queries are written to practice SQL concepts such as:
 - SELECT statements  
 - JOIN operations  
-- GROUP BY and aggregate functions  
+- Aggregate functions and GROUP BY 
 - Filtering and sorting data  
 
 ## 🧩 How to Use
