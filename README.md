@@ -18,7 +18,6 @@ These queries are written to practice SQL concepts such as:
 
 ## 🗂️ Files
 - `NorthwindSampleScript.sql` → Example queries for analysis and reporting  
-- `README.md` → Project information
 
 ## 🧠 Purpose
 This repository is for educational and practice purposes — useful for learning SQL basics and preparing data analysis examples.
